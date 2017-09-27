@@ -1,4 +1,4 @@
-# Mobile App Developer Coding Challenge
+# Developer Coding Challenge
 
 Welcome to the Paytm Labs Developer Challenge! The purpose of this challenge is to give us a better understanding of your coding skills. If you have any questions or need any clarifications for this challenge, please get in touch!
 
@@ -27,6 +27,11 @@ Estimated time: 1hr.
 - [ ] Your coding style! Show us how you like to write your code
 - [ ] Architecture, how you've structured your code
 - [ ] Principles, how you belive code should be written
+
+### When you're done...
+
+ZIP your completed Project and email it to your Paytm contact OR directly to us at: christopher.larsen@paytmlabs.com
+If you want to just send a link to your own repo, that's fine too!
 
 Have fun!
 
