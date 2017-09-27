@@ -31,7 +31,7 @@ Estimated time: 1hr.
 ### When you're done...
 
 ZIP your completed Project and email it to your Paytm contact OR directly to us at: christopher.larsen@paytmlabs.com
-If you want to just send a link to your own repo, that's fine too!
+If you want to just send a link to your own repo, that's fine too but please do __not__ fork this repo thanks!
 
 Have fun!
 
