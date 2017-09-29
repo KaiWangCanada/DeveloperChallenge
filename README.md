@@ -13,9 +13,9 @@ Estimated time: 1hr.
 
 ### Functional Requirements:
 - [ ] User must be able to select a currency from a list of available currencies
-- [ ] Exchange rates *must* be fetched from: http://fixer.io/  
-- [ ] User should see a list of exchange rates for their selected currency
+- [ ] User should then see a list of exchange rates for the selected currency
 - [ ] Rates should be persisted locally and refreshed no more frequently than every 30 minutes
+- [ ] Exchange rates *must* be fetched from: http://fixer.io/  
 
 ### UI Suggestion:
 - [ ] Some way to select a currency
@@ -30,8 +30,8 @@ Estimated time: 1hr.
 
 ### When you're done...
 
-ZIP your completed Project and email it to your Paytm contact OR directly to us at: christopher.larsen@paytmlabs.com
-If you want to just send a link to your own repo, that's fine too but please do __not__ fork this repo thanks!
+Zip your completed Project and email the .zip file to your Paytm contact OR directly to us at: christopher.larsen@paytm.com
+If you want to instead make a github repo and just send us a link to it, that's fine too but please do __not__ fork this repo thanks!
 
 Have fun!
 
