@@ -6,16 +6,16 @@ Estimated time: 1hr.
 
 ## Goal:
 
-#### Develop a Currency Conversion App that allows a user to convert any currency to Canadian Dollars.
+#### Develop a Currency Conversion App that allows a user view exchange rates for any given currency
 
 - [ ] Create a Project for a Mobile Phone
 - [ ] Android: _Java/Kotlin_ | iOS: _Swift_ (sorry, no Objective-C please!)
 
 ### Functional Requirements:
-- [ ] User must be able to select a currency from a list of available currencies
+- [ ] Exchange rates must be fetched from: http://fixer.io/  
+- [ ] User must be able to select a currency from a list of currencies available from Fixer
 - [ ] User should then see a list of exchange rates for the selected currency
-- [ ] Rates should be persisted locally and refreshed no more frequently than every 30 minutes
-- [ ] Exchange rates *must* be fetched from: http://fixer.io/  
+- [ ] Rates should be persisted locally and refreshed no more frequently than every 30 minutes (to limit bandwidth usage)
 
 ### UI Suggestion:
 - [ ] Some way to select a currency
